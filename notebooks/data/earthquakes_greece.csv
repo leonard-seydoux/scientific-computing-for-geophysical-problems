@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-01-11T01:07:48.064Z,35.2267,31.9435,21,6.6,mww,,21,1.168,0.71,us,us7000gaqu,2022-06-08T04:06:23.087Z,"48 km WNW of Pólis, Cyprus",earthquake,4.8,1.7,0.045,47,reviewed,us,us
+2021-10-12T09:24:05.099Z,35.1691,26.2152,20,6.4,mww,,19,0.86,0.46,us,us6000ftxu,2021-12-18T19:58:57.040Z,"4 km SW of Palekastro, Greece",earthquake,6.1,1.8,0.048,42,reviewed,us,us
+2021-09-27T06:17:21.478Z,35.244,25.2697,6,6,mww,,19,0.313,0.47,us,us7000fes8,2022-01-08T16:08:44.480Z,"6 km N of Thrapsanón, Greece",earthquake,5,1.8,0.043,51,reviewed,us,us
+2021-03-03T10:16:09.755Z,39.7546,22.1757,8,6.3,mww,,17,0.423,0.55,us,us7000df40,2022-02-26T20:35:47.061Z,"9 km W of Týrnavos, Greece",earthquake,2.7,1.8,0.034,81,reviewed,us,us
+2020-10-30T11:51:27.348Z,37.8973,26.7838,21,7,mww,,18,1.518,0.59,us,us7000c7y0,2022-08-31T11:27:57.762Z,"13 km NNE of Néon Karlovásion, Greece",earthquake,1.4,1.8,0.036,75,reviewed,us,us
+2019-11-27T07:23:42.383Z,35.7174,23.2284,69,6,mww,,18,1.421,1.02,us,us70006dlt,2020-02-19T18:58:10.040Z,"45 km WNW of Kíssamos, Greece",earthquake,6.5,1.9,0.051,37,reviewed,us,us
+2019-11-26T02:54:12.872Z,41.5138,19.5256,22,6.4,mww,,17,0.936,0.61,us,us70006d0m,2021-01-16T12:28:56.303Z,"15 km WSW of Mamurras, Albania",earthquake,4.3,1.8,0.037,72,reviewed,us,us
+2018-10-25T22:54:52.630Z,37.5203,20.5565,14,6.8,mww,,15,2.268,0.82,us,us1000hhb1,2022-05-03T19:36:42.091Z,"32 km SW of Lithakiá, Greece",earthquake,4.9,1.7,0.043,51,reviewed,us,us
+2017-07-20T22:31:11.260Z,36.9293,27.4139,7,6.6,mww,,16,0.913,0.78,us,us20009ynd,2022-05-12T18:38:26.907Z,"11 km ENE of Kos, Greece",earthquake,4.3,1.7,0.058,29,reviewed,us,us
+2017-06-12T12:28:39.150Z,38.9296,26.365,12,6.3,mww,,55,1.77,0.76,us,us20009ly0,2022-05-03T19:52:27.633Z,"5 km S of Plomári, Greece",earthquake,5.3,1.7,0.035,78,reviewed,us,us
+2015-11-17T07:10:07.300Z,38.67,20.6,11,6.5,mww,,,,0.98,us,us10003ywp,2022-08-01T18:14:50.537Z,"19 km SSW of Lefkáda, Greece",earthquake,4.6,3,,,reviewed,ath,us
+2015-04-16T18:07:43.610Z,35.1891,26.8235,20,6,mww,,25,0.451,0.83,us,us2000272b,2022-07-30T23:31:19.684Z,"26 km SSW of Fry, Greece",earthquake,6,1.7,,,reviewed,us,us
+2014-05-24T09:25:02.440Z,40.2893,25.3889,6.43,6.9,mww,,25,0.402,0.67,us,usb000r2hc,2022-08-06T23:56:04.427Z,"21 km SSW of Kamariótissa, Greece",earthquake,,3.2,,,reviewed,us,us
+2014-02-03T03:08:46.190Z,38.2637,20.3897,5,6,mww,,,,1.26,us,usc000mfuh,2022-07-26T06:34:37.790Z,"8 km NNW of Lixoúri, Greece",earthquake,,1.6,,,reviewed,ath,us
+2014-01-26T13:55:42.210Z,38.2082,20.4528,8,6.1,mww,,36,1.555,0.81,us,usb000m8ch,2022-07-26T06:02:34.943Z,"1 km ENE of Lixoúri, Greece",earthquake,,1,,,reviewed,us,us
+2013-10-12T13:11:53.350Z,35.5142,23.2523,40,6.6,mww,,40,1.984,1.21,us,usb000kbn7,2022-07-25T23:30:51.430Z,"36 km W of Kíssamos, Greece",earthquake,,1.9,,,reviewed,us,us
+2012-06-10T12:44:16.590Z,36.42,28.88,35,6,mww,529,40.6,,,us,usp000jmkj,2022-05-03T15:42:27.624Z,"28 km SW of Ölüdeniz, Turkey",earthquake,,,,,reviewed,ath,us
+2011-04-01T13:29:10.690Z,35.662,26.56,59.9,6,mww,395,23.9,,,us,usp000hz2h,2022-07-19T10:57:23.397Z,"42 km NW of Fry, Greece",earthquake,,,,,reviewed,ath,us
