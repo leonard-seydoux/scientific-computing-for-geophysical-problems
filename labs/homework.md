@@ -4,13 +4,13 @@
 
 ## Read data
 
-Using your expertise, and the knowledge your acquired during the first and second notebook session, read the seismograms downloaded for you under the `data/` folder. 
+Using your expertise, and the knowledge your acquired during the first and second notebook session, read the seismograms downloaded for you under the `data/` folder.
 
 These seismograms correspond to 15 earthquakes located around Greece, between Italy and Turkey. There were downloaded using the script `download_earthquakes.py` and the file `data/earthquakes_greece.csv` obtained from the [USGS Search Earthquake Catalog tool](https://earthquake.usgs.gov/earthquakes/search/).
 
 ## Pick _P_ and _S_ arrival times
 
-Using your newly acquired expertise as seismologist, identify the _P_ and _S_ wave arrivals visually (or automatically) on the waveform of each stations for an earthquake of your choice. Then report the arrival times in a csv file. 
+Using your newly acquired expertise as seismologist, identify the _P_ and _S_ wave arrivals visually (or automatically) on the waveform of each stations for an earthquake of your choice. Then report the arrival times in a csv file.
 
 Note that the automatic picking of phases can be done with ObsPy, without a garanteed quality. If you are curious, you can have a look at the [ObsPy's Trigger/Picker Tutorial](https://docs.obspy.org/tutorial/code_snippets/trigger_tutorial.html).
 
