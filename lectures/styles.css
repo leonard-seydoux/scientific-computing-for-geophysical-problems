@@ -1,0 +1,144 @@
+/* @theme presentation */
+
+@import 'default';
+
+:root {
+    --color-h1: white;
+    --color-h2: rgb(130, 130, 130);
+    --color-h2-background: rgb(237, 237, 237);
+    --color-strong: rgb(235, 188, 0);
+    --color-footer: rgb(162, 162, 162);
+    --color-link: rgb(123, 123, 123);
+    --color-mark: rgb(249, 232, 186);
+    --color-math: rgb(5, 103, 177);
+}
+
+
+
+h1 {
+    color: var(--color-h1);
+}
+
+h2 {
+    color: var(--color-h2);
+    position: fixed;
+    width: 1280px;
+    top: 0px;
+    left: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    font-weight: 400;
+    background-color: var(--color-h2-background);
+}
+
+h1 strong,
+h2 strong,
+h3 strong,
+h4 strong {
+    color: var(--color-strong);
+}
+
+em {
+    font-weight: 500;
+    font-style: normal;
+}
+
+mark {
+    background-color: var(--color-mark);
+}
+
+section::after,
+footer {
+    font-size: 15pt;
+    color: var(--color-footer);
+}
+
+a {
+    color: var(--color-link);
+    font-size: 100%;
+}
+
+.katex {
+    color: var(--color-math);
+    font-size: 120%;
+}
+
+section {
+    padding: 60px;
+    padding-top: 100px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    flex-basis: 40%;
+    align-items: center;
+    gap: 50px;
+}
+
+section.smaller div {
+    font-size: 90%;
+}
+
+section div {
+    display: inline;
+    flex-grow: 1;
+    flex-basis: 40%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    background-color: transparent;
+    max-height: 550px;
+}
+
+.logo {
+    background-image: url(images/cover/logo_ipgp_upc.png);
+    background-size: cover;
+    position: absolute;
+    left: 30px;
+    width: 200px;
+    bottom: 70px;
+    height: 100px;
+}
+
+section.titlepage {
+    text-align: center;
+    color: white;
+}
+
+section.titlepage h1 {
+    line-height: 2ex;
+    font-size: 350%;
+    font-weight: 200;
+}
+
+section.titlepage h2 {
+    position: relative;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+section.titlepage p {
+    font-size: 18pt;
+    color: white;
+}
+
+section.titlepage footer {
+    color: white;
+}
+
+section.titlepage::after {
+    color: transparent;
+}
+
+pre,
+code {
+    font-family: Andale Mono;
+}
+
+table {
+    font-size: 16pt;
+}
