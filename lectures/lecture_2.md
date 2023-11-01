@@ -10,12 +10,12 @@ math: katex
 
 # Scientific Computing for Geophysical Problems
 
-## Earthquake location estimation
+### Introduction to observational Seismology
 
-Léonard Seydoux
-Institut de physique du globe de Paris
-Université Paris Cité
-seydoux@ipgp.fr
+by Léonard Seydoux
+`seydoux@ipgp.fr`
+
+<!-- _footer: Institut de physique du globe de Paris, Université Paris Cité -->
 
 </div>
 <div>
@@ -24,26 +24,6 @@ seydoux@ipgp.fr
 
 </div>
 <span class="logo"></span>
-
----
-
-<!-- paginate: true -->
-
-## Foreword
-
-| __When__ | __Who__ | __What__ | __Topic__|
-| :- | :- | :- | :- |
-| 9/14 | AF | Lecture | Planetary magnetic fields |
-| 9/21 | AF | Lab | Basic signal processing with python and application to geomagnetic data |
-| 16/21 | LS | Lecture & lab | Introduction to observational seismology |
-| 10/5 | LS + AF | Lecture & lab | Seismograms, earthquakes, travel times, hypocenter |
-| 10/12 | AF | Lab | Models of the secular variation of the Earth’s magnetic field part I |
-| 10/19 | AF | Lab | Models of the secular variation of the Earth’s magnetic field part II |
-| Today | LS | Lecture & lab | Earth’s structure and seismic sources |
-| 11/2 | LS | Lecture & lab | Basic properties of earthquake sources, seismic tremors, and noise |
-| __11/16__ | LS + AF | __Final exam__ (2h) | Observational seismology |
-
-<!-- _footer: __AF__: Alexandre Fournier <br> __LS__: Leonard Seydoux -->
 
 ---
 
