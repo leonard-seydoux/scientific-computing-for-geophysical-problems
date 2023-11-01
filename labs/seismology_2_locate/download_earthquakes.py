@@ -1,4 +1,3 @@
-# coding: utf-8
 """Download earthquakes waveforms.
 
 This script downloads earthquake waveforms from the CSV file obtained from the
@@ -10,7 +9,6 @@ Date: Oct. 2022
 """
 
 import obspy
-import matplotlib.pyplot as plt
 import pandas as pd
 import tqdm
 
@@ -38,7 +36,6 @@ client = Client(DATA_PROVIDER)
 # Loop over every event
 waitbar = tqdm.tqdm(enumerate(catalog.time), desc="Downloading")
 for index, time in waitbar:
-
     # Turn into obspy date
     starttime = obspy.UTCDateTime(time)
     waitbar.set_description(str(time))
