@@ -2,6 +2,11 @@
 **/*.mseed
 **/*.sac
 
+# No images from lectures
+**/images/
+**/stein_and_wysession/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
