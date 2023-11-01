@@ -1,11 +1,11 @@
 # Scientific Computing for Geophysical Problems
 
-The lecture slides are available in the [Lectures](Lectures/) folder. The corresponding notebooks are in the [Notebooks](Notebooks/) folder. These two folders will be updated as we advance. The solutions will also be published online. 
+<img width=200px src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/16/Institut_de_physique_du_globe_de_paris_logo.svg/1200px-Institut_de_physique_du_globe_de_paris_logo.svg.png" />
 
-## 1. Introduction to Observational Seismology
+## Course description
 
-This first lecture and lab session is dedicated to observational seismology, seismological observations and problems, seismological data from collection to distribution and future seismic instruments. 
+The class _Scientific Computing for Geophysical Problems_ is a Master 2 course of the [institut de physique du globe de Paris](http://www.ipgp.fr/). The course is taught by [Alexandre Fournier](http://www.ipgp.fr/~fournier) and [Léonard Seydoux](https://sites.google.com/view/leonard-seydoux/accueil). The goal of this course is to introduce students to the basics of scientific computing and to the use of Python for solving geophysical problems. The course mostly consists in practical sessions where students will learn how to use Python to solve geophysical problems, such as the propagation of seismic waves in the Earth or the analysis of geomatic data.
 
-## 2. Location of earthquake epicenters
+## Contents
 
-The second lecture will look for earthquake position in space based on the differential travel times between the _P_ and _S_ seismic waves.
+The lecture slides are available in the [lectures](lectures/) folder. The corresponding notebooks are in the [notebooks](notebooks/) folder. These two folders will be updated as we advance. The solutions will also be published online. 
