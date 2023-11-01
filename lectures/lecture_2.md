@@ -10,7 +10,7 @@ math: katex
 
 # Scientific Computing for Geophysical Problems
 
-### Introduction to observational Seismology
+### Earthquake location and monitoring
 
 by Léonard Seydoux
 `seydoux@ipgp.fr`
