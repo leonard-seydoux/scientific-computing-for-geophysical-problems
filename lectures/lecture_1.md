@@ -55,24 +55,6 @@ __Public websites__
 
 ---
 
-## Foreword
-
-| Class | __Who__ | __What__ | __Topic__|
-| :- | :- | :- | :- |
-| 1 | AF | Lecture | Planetary magnetic fields |
-| 2| AF | Lab | Basic signal processing with python: application to geomagnetic data |
-| 3 | AF | Lab | Models of the secular variation of the Earth’s magnetic field part I |
-| 4 | AF | Lab | Models of the secular variation of the Earth’s magnetic field part II |
-| 5 | LS | Lecture & lab | Introduction to observational seismology |
-| 6 | LS | Lecture & lab | Seismograms, earthquakes, travel times, hypocenter |
-| 7 | LS | Lecture & lab | Earth’s structure and seismic sources |
-| 8 | LS | Lecture & lab | Basic properties of earthquake sources, seismic tremors, and noise |
-| 9 | LS + AF | __Final exam__  | Observational seismology |
-
-<!-- _footer: __AF__: Alexandre Fournier <br> __LS__: Leonard Seydoux -->
-
----
-
 ## Foreword: evaluation
 
 <div>
@@ -126,7 +108,7 @@ __Public websites__
 
 ---
 
-## About __self-learning__
+## About self-learning
 
 <div>
 
