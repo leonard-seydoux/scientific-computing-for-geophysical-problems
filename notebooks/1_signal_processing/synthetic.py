@@ -32,10 +32,19 @@ def time_range(
     return time_window
 
 
-def sine(times, period, amplitude, phase):
-    """
-    Returns a cosine time series with amplitude amp, period period, and phase
-    phase.
+def sine(
+    times: np.ndarray, period: float, amplitude: float, phase: float
+) -> np.ndarray:
+    """Sine function.
+
+    Generate a sine function with the given parameters. The formula is:
+
+    .. math::
+
+            y(t) = A \sin(2 \pi t / T + \phi)
+
+    where :math:`A` is the amplitude, :math:`T` is the period and :math:`\phi`
+    is the phase.
 
     Parameters:
     -----------
@@ -50,7 +59,7 @@ def sine(times, period, amplitude, phase):
 
     Returns:
     --------
-    tseries : numpy.ndarray
-        A 1D numpy array containing the cosine time series.
+    numpy.ndarray
+        A 1D numpy array containing the sine time series.
     """
-    return amplitude * np.sin(2.0 * np.pi * times / period + phase)
+    return amplitude * np.sin(2 * np.pi * times / period + phase)
