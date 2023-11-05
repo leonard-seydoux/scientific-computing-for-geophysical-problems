@@ -9,3 +9,18 @@ The class _Scientific Computing for Geophysical Problems_ is a Master 2 course o
 ## Contents
 
 The lecture slides are available in the [lectures](lectures/) folder. The corresponding notebooks are in the [notebooks](notebooks/) folder. These two folders will be updated as we advance. The solutions will also be published online. 
+
+### Lectures
+
+1. [Introduction to observational seismology](lectures/1_introduction_observational_seismology)
+2. [Earthquake location and monitoring](lectures/2_earthquake_location_monitoring)
+3. [Noise-based seismology](lectures/3_noise_based_seismology)
+
+### Notebooks
+
+1. [Basic signal processing with Python](notebooks/1_signal_processing)
+2. [Secular variation of the geomagnetic field](notebooks/2_secular_variation)
+3. [Spectral analysis of seismic data](notebooks/3_spectral_analysis)
+4. [Earthquake location](notebooks/4_earthquake_location)
+5. [Passive seismic interferometry](notebooks/5_passive_seismic_interferometry)
+
