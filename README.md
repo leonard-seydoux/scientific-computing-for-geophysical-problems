@@ -1,6 +1,6 @@
 # Scientific Computing for Geophysical Problems
 
-<img width=200px src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/16/Institut_de_physique_du_globe_de_paris_logo.svg/1200px-Institut_de_physique_du_globe_de_paris_logo.svg.png" />
+<img src="illustration.png" />
 
 ## Course description
 
