@@ -2,6 +2,8 @@
 
 <img width=150px src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/16/Institut_de_physique_du_globe_de_paris_logo.svg/1200px-Institut_de_physique_du_globe_de_paris_logo.svg.png" />
 
+<img src="illustration_signal_processing.svg"/>
+
 Made by Alexandre Fournier (fournier@ipgp.fr), modified by Léonard Seydoux (seydoux@ipgp.fr) in 2023 for the course _Scientific Computing for Geophysical Problems_ at the [institut de physique du globe de Paris
 
 ## Goals
