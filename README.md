@@ -12,9 +12,9 @@ The lecture slides are available in the [lectures](lectures/) folder. The corres
 
 ### Lectures
 
-1. [Introduction to observational seismology](lectures/1_introduction_observational_seismology)
-2. [Earthquake location and monitoring](lectures/2_earthquake_location_monitoring)
-3. [Noise-based seismology](lectures/3_noise_based_seismology)
+1. [Introduction to observational seismology](lectures/lecture_1.pdf)
+2. [Earthquake location and monitoring](lectures/lecture_2.pdf)
+3. [Noise-based seismology](lectures/lecture_3.pdf)
 
 ### Notebooks
 
