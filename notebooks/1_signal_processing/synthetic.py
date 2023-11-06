@@ -129,7 +129,7 @@ def make_illustration():
         axis.set_facecolor((1.0, 1.0, 1.0, 0.5))
 
     # Adjust layout for better spacing and save to SVG with transparent background
-    svg_c3_path = "illustration_signal_processing.svg"
+    svg_c3_path = "illustration.svg"
     fig.tight_layout()
     fig.savefig(svg_c3_path, facecolor="none")
 
